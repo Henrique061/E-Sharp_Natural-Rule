@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 0d36fe962de6c07439f960f4d7a23d13
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Luna Sans
+  fontNames:
+  - Luna Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40e9d6e0fa771a044b897c57ef6efc6f, type: 3}
+  - {fileID: 12800000, guid: 2c1c5b83bc2012d49b1c01f645b9c79f, type: 3}
+  - {fileID: 12800000, guid: d529fec3f4cc4904d949ca3f0b75e7f3, type: 3}
+  - {fileID: 12800000, guid: bab8056604079bc4ca927de43a42d1ad, type: 3}
+  - {fileID: 12800000, guid: c5503ad703252714c8aca9fec4a5d504, type: 3}
+  - {fileID: 12800000, guid: 40cbe42950aa3534ba9560deef0468e8, type: 3}
+  - {fileID: 12800000, guid: 1588979a72993374da7e4da6b42e15d3, type: 3}
+  - {fileID: 12800000, guid: 31c198fa8b3e9674091cbdcfac4ccb27, type: 3}
+  - {fileID: 12800000, guid: 24a1049bde1ce0e4e809e5e04040b341, type: 3}
+  - {fileID: 12800000, guid: 918e967df3a73bd4cb976a0381c778e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
